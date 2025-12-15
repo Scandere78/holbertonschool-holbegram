@@ -10,10 +10,6 @@ class UploadImageScreen extends StatefulWidget {
 class _UploadImageScreenState extends State<UploadImageScreen> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: Center(
-        child: Text('Upload Image Screen'),
-      ),
-    );
+    return Scaffold(body: Center(child: Text('Upload Image Screen')));
   }
 }
