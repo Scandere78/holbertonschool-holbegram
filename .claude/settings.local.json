@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutterfire configure:*)",
+      "Bash(dart pub global activate:*)",
+      "Bash(flutter devices:*)"
+    ]
+  }
+}
